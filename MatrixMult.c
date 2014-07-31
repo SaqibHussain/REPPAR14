@@ -5,6 +5,8 @@ Author:			Saqib Hussain
 Organisation:		School of Engineering, Cranfield University
 Email:			s.m.hussain@cranfield.ac.uk
 Copyright:		Copyright Saqib Hussain 2014
+Note:			The following code is a modification of that found 
+			online @ http://preeyakorn.rmutl.ac.th/mpi/matrixmultiply_blanks.c
 *****************************************************/
 
 #define _CRT_SECURE_NO_DEPRECATE
