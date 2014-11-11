@@ -1,4 +1,4 @@
 REPPAR14
 ========
 
-Experiments run for REPPAR'14 paper
+The code contained within this repository was used to run experiments inside Docker containers to ascertain their reproducbility in conjunction with my paper for the REPPAR'14 confrence.
